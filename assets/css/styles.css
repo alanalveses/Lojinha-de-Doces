@@ -7,15 +7,15 @@
 
   /*========== Colors ==========*/
   /* Color mode HSL(hue, saturation, lightness) */
-  --first-color: hsl(176,  88%, 27%);
-  --first-color-alt: hsl(129,  44%, 94%);
+  --first-color: hsl(221, 68%, 56%);
+  --first-color-alt: hsl(217, 42%, 94%);
   --second-color: hsl(34,  94%, 87%);
   --title-color: hsl(0,  0%, 13%);
-  --text-color: hsl(154,  13%, 32%);
+  --text-color: hsl(257, 13%, 32%);
   --text-color-light: hsl(60,  1%, 56%);
   --body-color: hsl(0,  0%, 100%);
   --container-color: hsl(0,  0%, 93%);
-  --border-color: hsl(129,  36%, 85%);
+  --border-color: hsl(234, 37%, 85%);
   --border-color-alt: hsl(113,  15%, 90%);
 
   /*========== Font and typography ==========*/
@@ -791,7 +791,7 @@ background-color: hsl(202, 53%, 76%);
 
 /*=============== NEWSLETTER ===============*/
 .newsletter {
-  background-color: hsl(166, 23%, 74%);
+  background-color: hsl(261, 23%, 74%);
 }
 
 .home__newsletter {
